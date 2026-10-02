@@ -1,7 +1,7 @@
 ---
 title: "Daniel Lain"
 image: prueba_957808.jpg
-about: Hello my name is Daniel Lain and I am a sophomore IE student at the UofA. My favorite color is the color blue.
+about: 
   template: jolla
   links:
     - icon: github
@@ -13,4 +13,7 @@ about: Hello my name is Daniel Lain and I am a sophomore IE student at the UofA.
     - icon: inboxes
       text: Contact
       href: mailto:laindanield@gmail.com
+---
+
+Hello my name is Daniel Lain and I am a sophomore IE student at the UofA. My favorite color is the color blue.
 ---
